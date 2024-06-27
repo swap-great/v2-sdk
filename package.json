@@ -24,7 +24,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@uniswap/sdk-core": "https://github.com/swap-great/v2-sdk.git",
+    "@uniswap/sdk-core": "https://github.com/swap-great/sdk-core.git",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
